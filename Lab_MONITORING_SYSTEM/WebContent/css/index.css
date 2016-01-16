@@ -1,0 +1,37 @@
+@CHARSET "UTF-8";
+.registerInputBox
+{
+	height:25px;
+	width:400px;
+	font-size: x-large;
+}
+.registerTextArea
+{
+	height:40px;
+	width:500px;
+	font-size:x-large;
+}
+.registercheckbox
+{
+	height:25px;
+	width:100px;
+	
+}
+.registerLabel
+{
+	height:30px;
+	width:200px;
+}
+form
+{
+	width:500px;
+	
+	margin:0 auto;
+}
+.registerButton
+{
+	height:50px;
+	width:450px;
+	font-size:xx-large;
+	
+}
